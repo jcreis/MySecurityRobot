@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "21402692371",
+    "firebase_url": "https://securityrobotapp.firebaseio.com",
+    "project_id": "securityrobotapp",
+    "storage_bucket": "securityrobotapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21402692371:android:f5ee1fe1128dc95b",
+        "android_client_info": {
+          "package_name": "scmu201819.fct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21402692371-6019q4aug232t7cg5kod9ba6bh158176.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3DrTj3cx8Ag_vGT_wyh7_IJ3rEodV_Pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21402692371-6019q4aug232t7cg5kod9ba6bh158176.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
